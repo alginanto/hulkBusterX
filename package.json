@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author":"ALGIN ANTO",
+	"description": "A Project with nodejs",
+	"keywords": [ "descriptive", "related", "freecodecamp" ],
+	"license":"BSD",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
